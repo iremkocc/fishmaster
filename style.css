@@ -1,0 +1,81 @@
+.navbar {
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    background-color: #DEDAF5;
+    font-family: News Cylce;
+    color: #1275E9;
+}
+.careousel-inner>.item>img,
+.careousel-inner>.item>a>img {
+    width: 40%;
+    margin: auto;
+}
+
+.hr1{margin-top: 3px;}
+
+.thumbnail{
+    width: 300px;
+    height: 225px;
+    background-color: #DEDAF5;
+}
+.second{
+    margin-top: -35px;
+    color: #1275E9;
+}
+.whoarewe{
+    text-align: center;
+    color: #1275E9;
+    text-align: center;
+}
+.pp{
+    text-align: center;
+    color: #1275E9;
+}
+.sea{
+    width: 300px;
+    height: 225px;
+    margin-left: 575px;
+    
+}
+.item active{
+    width: 350;
+    height: 300;
+}
+.navbar-header{
+    background-color: #DEDAF5;
+    color: #1275E9;
+}
+.nav navbar-nav{
+    background-color: #DEDAF5;
+    color: #1275E9;
+}
+.comments{
+    text-align: left;
+    color: #1275E9;
+}
+.media-heading{
+    text-align: left;
+    color: #1275E9;
+}
+#photos{
+    height: 450px;
+    border-image-width: auto;
+    width: 50%;
+   margin: auto;
+    }
+.socialmedia{
+    /* Style all font awesome icons */
+
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  
+
+}
+.navbar-nav{
+    color: #1275E9;
+    
+}

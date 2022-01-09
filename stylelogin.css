@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+    color: white;
+}
+.username {
+    text-align: center;
+}
+.password{
+    text-align: center;
+}
+.btn-login{
+    color: white;
+    background-color:blueviolet;
+    border-radius: 4px;
+    margin-top: 20px;
+
+}
+.login{
+    background-color: #e009e0;
+    
+}
+.form-control-login{
+    height: 20px;
+    width: 40%;
+}
+.checkbox{
+    color: white;
+}
